@@ -25,15 +25,27 @@ layout: default
       <div class="address">
         {{ page.profile.address }}
       </div>
-      {%- endif %}
+    {%- endif %}
 
     </div>
     {%- endif %}
-    <h1 class="post-title">Sue Liu
+    <h1 class="post-title">Mark-Jan Nederhof
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
     <div class="clearfix">
+      {{ page.address }}
+      {%- if page.social %}
+      <!-- Social -->
+      <div class="social">
+        <div class="contact-icons">
+          {% include social.html %}
+        </div>
+      </div>
+      {%- endif %}
+    </div>
+    <div class="clearfix">
       {{ content }}
+    
     </div>
     {% if page.news -%}
     <!-- News -->
@@ -43,14 +55,7 @@ layout: default
     <!-- Selected papers -->
     {%- include selected_papers.html %}
     {%- endif %}
-    {%- if page.social %}
-    <!-- Social -->
-    <div class="social">
-      <div class="contact-icons">
-        {% include social.html %}
-      </div>
-    </div>
-    {%- endif %}
+    
 
 
   </article>

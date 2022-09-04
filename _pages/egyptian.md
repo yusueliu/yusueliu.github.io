@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Ancient Egyptian
+permalink: /egyptian/
+description: Data formats and software for Ancient Egyptian
 nav: true
 nav_order: 2
 display_categories: [work, fun]

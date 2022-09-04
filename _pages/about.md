@@ -2,17 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Senior Machine Learning Engineer</strong> at <a href='https://www.usertesting.com/'>UserTesting</a>.
+subtitle: > 
+  <strong>Senior Lecturer</strong>
 profile:
   align: left
-  image: sue.jpg
+  image: mjn.jpg
   image_circular: false # crops the image to make it circular
-  
-
+address: >
+  <a href="https://www.st-andrews.ac.uk/computer-science/">School of Computer Science</a><br>
+  <a href="https://www.st-andrews.ac.uk">University of St Andrews</a><br>
+  North Haugh, St Andrews, Fife<br>
+  KY16 9SX<br>
+  UK</p>
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My research interests are related to optimising two-sided marketplace platforms using machine learning. 
+<strong>Research Interests</strong>
+- Context-free, tree-adjoining and regular languages
+- Probabilistic parsing
+- Parsing with unification grammars
+- Error correction
+- ...
 
-Another interest of mine is the dynamics of <a href="https://www.nasa.gov/feature/langley/studying-earth-s-stratospheric-water-vapor/">stratospheric water vapour</a>, which I have been working on while in academia.
+<strong>Other Activities</strong><br>
+Developing software for processing Ancient Egyptian and studying ancient writing systems in general.
+

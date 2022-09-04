@@ -1,39 +1,44 @@
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Lecturer 
+      institution: School of Computer Science, University of St Andrews, UK
+      year: 2006 - now
+      
+    - title: Senior Researcher
+      institution: Max Planck Institute for Psycholinguistics
+      year: 2005 - 2006
+      description: From July 2006 till September 2006, on leave from MPI, sabbatical with the Research Group on Mathematical Linguistics at the Rovira i Virgili University.
+      
+    - title: Lecturer 
+      institution: Department of Humanities Computing, University of Gronigen, Netherlands
+      year: 2003 - 2005
+      description: Also affiliated to the Pionier project Algorithms for Linguistic Processing.
+
+    - title: KNAW Fellowship
+      institution: Department of Humanities Computing, University of Groningen, Netherlands
+      year: 2000 - 2003
+
+    - title: Senior Researcher
+      institution: DFKI, Saarbrucken
+      description: 
+      - Involved in the Verbmobil-project. 
+      - From November 1999 till March 2000, on leave from DFKI, consultant at AT&T Shannon Laboratory.
+      year: 1998 - 2000
+
+    - title: Post-doctoral Researcher
+      institution: Department of Humanities Computing of the University of Groningen.
+      description: Involved in the OVIS-project (Openbaar Vervoer Informatie Systeem)
+      year: 1995 - 1998
+
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Applied Mathematics
-      institution: University of Cambridge, UK
-      year: 2010
-    - title: MA, Mathematics
-      institution: Trinity College, University of Cambridge, UK
-      year: 2005
-
-- title: Industry Experience
-  type: time_table
-  contents:
-    - title: Senior Machine Learning Engineer
-      institution: <a href="https://usertesting.com">UserTesting Ltd.</a>, San Francisco, US
-      description: <i>Leading a team of machine learning and software engineers to improve UserTesting's two-sided marketplace using ML.</i>
-      year: 2019 - now
-      
-    - title: Senior Data Scientist
-      institution: <a href="https://mudano.com/">Mudano Ltd.</a>, UK
-      year: 2018 - 2019
-      description: <i>Built machine learning features for the project management software Sharktower, including sentiment analysis and project modeller.</i>
-      
-    - title: Research Scientist
-      institution: <a href="http://www.sensewhere.com/">SenseWhere Ltd.</a>, UK
-      year: 2017 - 2018
-      description: <i>Conducted machine learning research to solve indoor positioning problems using WiFi and sensor data.</i>
-
-    - title: Data Scientist
-      institution: <a href='https://www.thefloow.com/'>The Floow Ltd</a>, Sheffield, UK
-      description: <i>Built machine learning capabilities in the Floow's scoring and risk prediction models. </i>
-      year: 2016 - 2017
-
-
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Two-sided marketplace matching
-    - title: Bayesian probabilistic machine learning
+    - title: OIO (PhD), Computer Science
+      institution: University of Nijmegen, Netherlands
+      year: 1994
+    - title: BSc, Computer Science
+      institution: University of Nijmegen, Netherlands
+      year: 1990
