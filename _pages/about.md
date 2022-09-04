@@ -15,4 +15,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 My research interests are related to optimising two-sided marketplace platforms using machine learning. 
 
-Another interest of mine is the dynamics of <a href="https://www.nasa.gov/feature/langley/studying-earth-s-stratospheric-water-vapor/">stratospheric water vapour</a>, which I have been working on while in academia.
+Another interest of mine is the dynamics of <a href="https://www.nasa.gov/feature/langley/studying-earth-s-stratospheric-water-vapor/">stratospheric water vapour</a>.
